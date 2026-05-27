@@ -1,0 +1,11 @@
+# Askimo Agent Desk
+
+Askimo Agent Desk is a SaaS workspace for Askimo.
+
+Website: https://askimodesk.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: Askimo
+Type: SaaS
+Default plan: team
+
+Public boundary: docs-only repository; no production source code or secrets.
